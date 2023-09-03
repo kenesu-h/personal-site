@@ -7,6 +7,7 @@ import TerminalWindow from "./components/TerminalWindow.vue";
     class="background-image"
     onload="this.style.opacity=0.33"
     src="./assets/images/background.png"
+    alt="Persona 5 - Tokyo Night"
   />
   <TerminalWindow />
 </template>
