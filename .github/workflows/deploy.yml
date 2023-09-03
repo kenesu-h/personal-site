@@ -1,4 +1,4 @@
-name: deploy
+name: Deploy
 
 on:
   push:
@@ -19,7 +19,7 @@ jobs:
           node-version: 16
       - run: npm ci
       - run: npm run build
-      - run: apt-get update && apt-get install -y rsync
+      - run: sudo apt-get update && sudo apt-get install -y rsync
       - uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: dist
