@@ -51,18 +51,18 @@ const { years, months } = yearsAndMonthsSince(new Date("2001-01-01"));
       </div>
       <div>----------</div>
       <div>
-        <span class="green">OS:</span>
-        openSUSE Leap 15.5 x86_64
-      </div>
-      <div>
-        <span class="green">Uptime:</span>
+        <span class="green">Age:</span>
         {{ years }} years, {{ months }} months
       </div>
-      <div>
-        <span class="green">Shell:</span>
-        zsh 5.6
-      </div>
       <div>&nbsp;</div>
+      <div>
+        <span class="green">Discord: </span>
+        kenesu_h
+      </div>
+      <div>
+        <span class="green">Email: </span>
+        <a href="mailto:officialkennyho@gmail.com">officialkennyho@gmail.com</a>
+      </div>
       <div>
         <span class="green">GitHub: </span>
         <a href="https://github.com/kenesu-h">kenesu-h</a>
