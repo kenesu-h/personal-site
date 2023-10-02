@@ -89,7 +89,7 @@ const { years, months } = yearsAndMonthsSince(new Date("2001-01-01"));
       </div>
       <div>
         <span class="green">Technologies:</span>
-        Git, Linux, React, Angular, GraphQL
+        Git, Linux, React, Angular, Docker
       </div>
       <div>&nbsp;</div>
       <div>
