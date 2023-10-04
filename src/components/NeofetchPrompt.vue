@@ -85,7 +85,7 @@ const { years, months } = yearsAndMonthsSince(new Date("2001-01-01"));
       <div>&nbsp;</div>
       <div>
         <span class="green">Languages:</span>
-        TypeScript, Python, Rust, Java, C/C++
+        TypeScript, Python, Rust, Java, C++
       </div>
       <div>
         <span class="green">Technologies:</span>
